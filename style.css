@@ -594,6 +594,12 @@ body {
 .text{
   padding-top: 1vw;
 }
+.hes{
+    margin-top: 8vw;
+    margin-left: 16vw;
+    font-size: 28px;
+    font-weight: bold;
+}
   
 
   
@@ -789,8 +795,8 @@ body {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    margin-top: -48.5vw;
-    margin-left: -15px;
+    margin-top: -44vw;
+    margin-left: -14px;
     gap: 14px;
     font-size: 11px;
 }
@@ -805,6 +811,12 @@ body {
   width: 92vw;
   margin-left: 60px;
   font-size: 28px;
+}
+.hes {
+  margin-top: 19vw;
+  margin-left: 16vw;
+  font-size: 28px;
+  font-weight: bold;
 }
 
 }
@@ -840,13 +852,19 @@ body {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  margin-top: -45vw;
+  margin-top: -44vw;
   margin-left: -14px;
   gap: 13.5px;
   font-size: 11px;
 }
 .sandey {
   margin-top: -3px;
+}
+.hes {
+  margin-top: 19vw;
+  margin-left: 16vw;
+  font-size: 28px;
+  font-weight: bold;
 }
 
 
