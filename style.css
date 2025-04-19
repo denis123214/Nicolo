@@ -866,9 +866,8 @@ body {
   font-size: 28px;
   font-weight: bold;
 }
-
-
 }
+
   
   /* ======== 💻 Стандартні ноутбуки (1366x768, 1440x900, 1536x864) ======== */
   @media (min-width: 769px) and (max-width: 1600px) {
