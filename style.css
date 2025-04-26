@@ -952,13 +952,13 @@ h2 {
      display: flex;
      gap: 4vw;
      margin-left: 4vw;
-     margin-top: 5vw;
+     margin-top: 3vw;
 }
 .widthh {
   display: flex;
   gap: 5vw;
   margin-left: 4vw;
-  margin-top: 5vw;
+  margin-top: 3vw;
 }
 .card {
   background: white;
